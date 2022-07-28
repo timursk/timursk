@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Advanced [React](https://reactjs.org/) 
 - 👯 I'm on [Leetcode](https://leetcode.com/timursk/) 
 - 🤔 I'm on [Codewars](https://www.codewars.com/users/timursk-rss) (4kuy)
-- 📫 How to reach me: [Telegram](t.me/timursk), [Linkedin](linkedin.com) 
+- 📫 How to reach me: [Telegram](https://t.me/timursk), [Linkedin](https://www.linkedin.com/in/timur-salikhov-2236a621a/) 
 
 ____
 
