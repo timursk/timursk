@@ -8,8 +8,8 @@
 ### About Me:
 - 🔭 I’m currently working on single page apps 
 - 🌱 I’m currently learning Advanced [React](https://reactjs.org/) 
-- 👯 I'm on [Leetcode](https://leetcode.com/timursk/) 
-- 🤔 I'm on [Codewars](https://www.codewars.com/users/timursk-rss) (4kuy)
+- 👨‍💻 I'm on [Leetcode](https://leetcode.com/timursk/) 
+- 🎓 I'm on [Codewars](https://www.codewars.com/users/timursk-rss) (4kuy)
 - 📫 How to reach me: [Telegram](https://t.me/timurskk), [Linkedin](https://www.linkedin.com/in/timur-salikhov-2236a621a/) 
 
 ____
