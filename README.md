@@ -22,4 +22,4 @@ ____
 ____
 
 ### Last projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timursk&repo=project-management-app&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timursk&repo=rslang&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timursk&repo=project-management-app&theme=discord_old_blurple)](https://github.com/timursk/project-management-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timursk&repo=rslang&theme=discord_old_blurple)](https://github.com/timursk/rslang)
